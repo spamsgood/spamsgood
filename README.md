@@ -3,13 +3,14 @@
 I'm a college student studying CIS. 
 
 ## About Me
+- Currently battling cancer
 
 - 🎓 Earning an A.S. in Networking and an A.S. in Science Exploration. I only need one more class in fall 2024 to graduate with both.
 - 📜 I've earned certificates in:
   - CIS Cybersecurity Certificate of Achievement
   - CIS Networking Certificate of Achievement
   - CIS Cisco Networking and Microsoft Server Administration Certificate of Recognition
-  - Currently battling cancer
+  
 ## Personal Projects
 
 - 👾 Crafting mods for Rimworld and Crusader Kings III.
