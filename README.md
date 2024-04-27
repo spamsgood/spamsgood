@@ -1,16 +1,27 @@
-### Hi there 👋
+# HelloThere.gif
 
-<!--
-**spamsgood/spamsgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a college student studying CIS. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Earning an A.S. in Networking and an A.S. in Science Exploration. I only need one more class in fall 2024 to graduate with both.
+- 📜 I've earned certificates in:
+  - CIS Cybersecurity Certificate of Achievement
+  - CIS Networking Certificate of Achievement
+  - CIS Cisco Networking and Microsoft Server Administration Certificate of Recognition
+  - Currently battling cancer
+## Personal Projects
+
+- 👾 Crafting mods for Rimworld and Crusader Kings III.
+- 👨‍👧‍👦 Dad of three, mastering the art of multitasking one day at a time.
+- 🛠️ working on a password manager for a school project.
+  
+## Interests
+- I enjoy participating in the NCL
+- 📖 Avid reader, occasional writer, one day will write that novel. 
+- 🧩 Fascinated by cryptography and pen-testing, pursuing them purely for the joy of discovery.
+- 🤖 Venturing into the realm of machine learning and AI, especially the world of open-source LLMs.
+- 🎲 Gaming, both of the video and pen paper and dice variety
+---
+
+*‘Wisdom comes from experience. Experience is often a result of lack of wisdom.’ – Terry Pratchett*
